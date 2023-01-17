@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #fffbf2;
+}
+
+.nav-ul {}
+
+.talk-btn {
+    /* width: 51px;
+height: 14px; */
+
+    margin-left: 1279px;
+    margin-right: 80px;
+    margin-top: -20px;
+
+    font-family: 'PP Neue Montreal';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 14px;
+    /* identical to box height, or 100% */
+
+    letter-spacing: -0.02em;
+
+    color: #000000;
+
+
+    background-color: transparent;
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 22px;
+    padding: 0px;
+    /* gap: 40px; */
+
+    position: absolute;
+    width: 81px;
+    height: 34px;
+
+
+
+}
+
+.upper-one {
+    width: 36px;
+    height: 2px;
+
+    background: #000000;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    margin-bottom: 6px;
+    margin-top: 40px;
+
+}
+
+.hamburger-menu {
+    margin-top: 40px;
+    margin-left: 80px;
+}
+
+.lower-one {
+    width: 36px;
+    height: 2px;
+
+    background: #000000;
+
+    /* Inside auto layout */
+
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.nav-logo {
+    position: absolute;
+    width: 140px;
+    height: 24px;
+    left: 650px;
+    top: 33px;
+
+    font-family: 'Ninna';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 24px;
+    /* identical to box height, or 100% */
+
+    display: flex;
+    align-items: center;
+    text-transform: uppercase;
+
+    color: #000000;
+
+}
+
+.portion1-h1{
+    position: absolute;
+width: 1120px;
+height: 215.74px;
+left: 80px;
+top: 250.95px;
+
+color: #1A1A1A;
+}
